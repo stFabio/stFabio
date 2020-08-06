@@ -1,16 +1,16 @@
-### Hi there 👋
+<img width="auto" src="">
 
-<!--
-**stFabio/stFabio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Fabio Santos 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Olá pessoal 👋
+Sou apaixonado por resolver problemas utilizando a programação.
+Sou um JavaScript Developer :computer:
+
+ <br/> :purple_heart: &nbsp; Buscando aprender com novos projetos.
+ <br/> :blush: &nbsp; Posso te ajudar com meu empenho e rápida aprendizagem.
+ <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & JavaScript.
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, GTA e seriados.
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sntFabio/)](https://www.linkedin.com/in/sntFabio/) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-sntfabio.22@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sntfabio.22@gmail.com)](mailto:sntfabio.22@gmail.com)
