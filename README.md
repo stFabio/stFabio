@@ -1,7 +1,7 @@
 ## Hi 👋
 Nice to meet you! I'm Fabio, 23y, developer since 16y old and working with software development at least for 5 years! 
 
- <br/> 💜 &nbsp; Currently working at MindCloud 💻
+ <br/> 💙 &nbsp; Currently working at MindCloud 💻
  <br/> 📚 &nbsp; Stack: Node.js and React (both using JS & TS) 💚💙.
  <br/> 📚 &nbsp; Unit tests using Jest. 
  <br/>
